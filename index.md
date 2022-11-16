@@ -8,7 +8,7 @@ layout: default
 <br/>
 **Checkout my Github profile.**
 
-**This page is the palce I show my projects and post blogs.** 
+_This page is the palce I show my projects and post blogs_.
 
 # My Projects
 
@@ -21,6 +21,10 @@ Self-supporting prjoject may also be metioned at here.
 > FEM3He focuses on developing a finite element method (FEM) based kit of nonlinear solvers for Ginzburg-Landau (GL) PDEs system, which generally have 18 real-valued function unknowns. 
 > In general catagory, GL PDEs contain staionary equations i.e., saddle point equations and time-dependent equations i.e., TDGL. Sovling the formal provides stable phases, stable configuraions and 
 > critical configurations. While solving the later help up to understand the different dynamic properties of Helium condensates such as collective modes and hydrodynamics.
+
+## He3Sim
+
+> Latice QCD library _hila_ based dynamic solver of TDGL for superlfuid Helium. This is a join project.
 
 ## SCC-GL
 
