@@ -4,13 +4,17 @@ layout: default
 
 **Great you checkout my page! I appreciate so much. (:**
 
-**I am Quank(g), a postdoc research fellow with PhD degree of mathematical physics of University of Helsinki. Plz checkout my Github profile.**
+**I am Quank(g), a postdoc research fellow with PhD degree of mathematical physics of University of Helsinki.**
+<br/>
+**Checkout my Github profile.**
 
 **This page is the palce I show my projects and post blogs.** 
 
 # My Projects
 
-This header shows info about projects I am developing during career. Self-supporting prjoject may also be metioned at here.
+This header shows info about projects I am developing during career.
+<br/>
+Self-supporting prjoject may also be metioned at here.
 
 ## FEM3He
 
