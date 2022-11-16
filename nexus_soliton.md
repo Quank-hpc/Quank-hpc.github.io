@@ -23,12 +23,12 @@ Libaray NS was developed with [BFGS nonlinear optimization algorithm](https://en
 The codes was implemented with Matlab and c++ languages. c++ programs should be complied to be dynamic object files (.so files) with suitbale interfaces before Matlab scripts could call them. However, same functions could be implemented and run without c++ parts, witha a bit slower. Matlab _parfor_ is used for parallelism, and then addtional shell scripts are necessary for running on cluster.
 
 There are still few open implements waiting for more work, for example:
-* random latices for solitions and HQVs;
-* 3-dimension finite element mesh for system without translation symmetry along z-direction;
+* Random latices for solitions and HQVs --- soliton galss;
+* 3-Dimensional finite element mesh for system without translation symmetry along z-direction;
 
 |:-------------------------------------------------------------------------------------------|
 |                                                                                            |
 
-Link of repo:
+Link of repo: [nexus-soliton](https://github.com/Quank-hpc/nexus-soliton)
 
-openaccess data:
+Open-access data of simulations:
