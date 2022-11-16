@@ -4,9 +4,7 @@ layout: default
 
 **Great you checkout my page! I appreciate so much. (:**
 
-**I am Quank(g), a postdoc research fellow with PhD degree of mathematical physics of University of Helsinki.
-My main research interests are constructing mathematical modeling of physical systems and investigate them though high performance computation (HPC).
-Currently the system I focus on is superfluid Helium-3.**
+**I am Quank(g), a postdoc research fellow with PhD degree of mathematical physics of University of Helsinki. Plz checkout my Github profile.**
 
 **This page is the palce I show my projects and post blogs.** 
 
