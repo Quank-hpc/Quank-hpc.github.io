@@ -4,7 +4,7 @@ layout: default
 
 **Great you checkout my page! I appreciate so much. (:**
 
-**I am Quank(g), a postdoc research fellow with PhD degree of mathematical physics of University of Helsinki.**
+**I am Quank(g), postdoc research fellow with PhD degree of mathematical physics of University of Helsinki.**
 <br/>
 **Checkout my Github profile.**
 
@@ -21,6 +21,10 @@ Self-supporting prjoject may also be metioned at here.
 > FEM3He focuses on developing a finite element method (FEM) based kit of nonlinear solvers for Ginzburg-Landau (GL) PDEs system, which generally have 18 real-valued function unknowns. 
 > In general catagory, GL PDEs contain staionary equations i.e., saddle point equations and time-dependent equations i.e., TDGL. Sovling the formal provides stable phases, stable configuraions and 
 > critical configurations. While solving the later help up to understand the different dynamic properties of Helium condensates such as collective modes and hydrodynamics.
+
+## SCC-GL
+
+> c++ and pyhton interfaces for strong coupling corrected coefficients of Ginzburg-Landau free energy. 
 
 ## Nexus-Soliton (NS)
 
