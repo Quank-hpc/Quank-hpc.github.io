@@ -2,13 +2,11 @@
 layout: default
 ---
 
-**Great you checkout my page! I appreciate so much.(:**
+**Great you checkout my page! I appreciate so much. (:**
 
-**I am Quank(g), which is postdoc research fellow with PhD degree of mathematical physics of University of Helsinki.
+**I am Quank(g), a postdoc research fellow with PhD degree of mathematical physics of University of Helsinki.
 My main research interests are constructing mathematical modeling of physical systems and investigate them though high performance computation (HPC).
 Currently the system I focus on is superfluid Helium-3.**
-
-**Beside academic time, I have few hobbies which I am really good at. They are paintings (oil and pastel), coding-hacking, and amateur radio astronomy.**
 
 **This page is the palce I show my projects and post blogs.** 
 
@@ -31,12 +29,16 @@ This header shows info about projects I am developing during career. Self-suppor
 >
 > Read more in dedicated page: [Nexus-Soliton](./another-page.html)
 
-# Technical Blogs
+# Blogs
 
 This header is the thchnical blogs post list. Covered topics will be
 * HPC-related like complation, parallelism, shell script, cmake etc.;
 * Language-related like modern C++, rust, html;
 * tools-related and libraries-related.
 
-- 2022
-  - ...
+### 2022
+    - ...
+
+# Free time
+
+I have few hobbies which I am really good at. They are paintings (oil and pastel), coding-hacking, and amateur radio astronomy.
