@@ -38,7 +38,7 @@ Self-supporting prjoject may also be metioned at here.
 > This results in composite defects described by relative homotopy groups. Moreoever, the isomorphic relationship of these relative homotopy make composite objects even more compilcate --- they form nexus.
 > 1D nexus has been observed expermentally, with a very good coincidence with NS simulations.
 >
-> Read more in dedicated page: [Nexus-Soliton](./another-page.html)
+> Read more in dedicated page: [Nexus-Soliton](./nexus_soliton.html)
 
 # Blogs
 

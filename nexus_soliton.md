@@ -16,4 +16,8 @@ layout: default
 
 Libaray NS was developed with [BFGS nonlinear optimization algorithm](https://en.wikipedia.org/wiki/Broyden–Fletcher–Goldfarb–Shanno_algorithm) and [Galekin method of eigen problem](https://en.wikipedia.org/wiki/Galerkin_method). Finite element Discretization is used for numerical system.
 
-The codes was implemented with Matlab and c++. c++ codes will be complied to be dynamic object files (.so files) with suitbale interfaces before Matlab scripts could call them. Programs could run without c++ parts, but a little bit slower. Matlab parfor is used for parallelism on clusters.   
+The codes was implemented with Matlab and c++. c++ codes will be complied to be dynamic object files (.so files) with suitbale interfaces before Matlab scripts could call them. Programs could run without c++ parts, but a little bit slower. Matlab parfor is used for parallelism, and addtional shell scripts are necessary for running on cluster.
+
+Link of repo:
+
+openaccess data:
