@@ -2,13 +2,15 @@
 layout: default
 ---
 
-** Great you checkout my page! I appreciate so much.(: **
-** I am Quank(g), which is postdoc research fellow with PhD degree of mathematical physics of University of Helsinki.
+**Great you checkout my page! I appreciate so much.(:**
+
+**I am Quank(g), which is postdoc research fellow with PhD degree of mathematical physics of University of Helsinki.
 My main research interests are constructing mathematical modeling of physical systems and investigate them though high performance computation (HPC).
 Currently the system I focus on is superfluid Helium-3.**
-** Beside academic time, I have few hobbies which I am really good at. They are paintings (oil and pastel), coding-hacking, and amateur radio astronomy. **
 
-** This page is the palce I show my projects and post blogs. ** 
+**Beside academic time, I have few hobbies which I am really good at. They are paintings (oil and pastel), coding-hacking, and amateur radio astronomy.**
+
+**This page is the palce I show my projects and post blogs.** 
 
 # My Projects
 
