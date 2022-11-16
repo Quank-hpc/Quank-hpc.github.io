@@ -8,7 +8,8 @@ layout: default
 <br/>
 **Checkout my Github profile.**
 
-_This page is the palce I show my projects and post blogs_.
+|:----------------------------------------------------------|
+|_This page is the palce I show my projects and post blogs_.|
 
 # My Projects
 
