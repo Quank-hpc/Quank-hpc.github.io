@@ -14,6 +14,7 @@ layout: default
 >
 > This results in composite defects described by relative homotopy groups. Moreoever, the isomorphic relationship of these relative homotopy make composite objects even more compilcate --- they form nexus.
 > 1D nexus has been observed expermentally, with a very good coincidence with NS simulations. [read more in paper](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043356)
+![NS](./assets/img/NS.png)
 
 |:-------------------------------------------------------------------------------------------|
 |                                                                                            |
@@ -25,6 +26,8 @@ The codes was implemented with Matlab and c++ languages. c++ programs should be 
 There are still few open implements waiting for more work, for example:
 * Random latices for solitions and HQVs --- soliton galss;
 * 3-Dimensional finite element mesh for system without translation symmetry along z-direction;
+
+If you wanna discuss or have interesting to contribute, plz sent email to me: samuel.thecurvature01@gmail.com 
 
 |:-------------------------------------------------------------------------------------------|
 |                                                                                            |
