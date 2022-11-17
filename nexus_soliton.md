@@ -26,8 +26,9 @@ The codes was implemented with Matlab and c++ languages. c++ programs should be 
 There are still few open implements waiting for more work, for example:
 * Random latices for solitions and HQVs --- soliton galss;
 * 3-Dimensional finite element mesh for system without translation symmetry along z-direction;
+* Adaptive mesh.
 
-If you wanna discuss or have interesting to contribute, plz sent email to me: samuel.thecurvature01@gmail.com 
+If you wanna discuss or have interesting to contribute, plz sent me email: samuel.thecurvature01@gmail.com 
 
 |:-------------------------------------------------------------------------------------------|
 |                                                                                            |

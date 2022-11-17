@@ -15,7 +15,7 @@ layout: default
 
 This header shows info about projects I am developing during career.
 <br/>
-Self-supporting prjoject may also be metioned at here.
+Self-supporting project may also be metioned at here.
 
 ## FEM3He
 
@@ -42,7 +42,7 @@ Self-supporting prjoject may also be metioned at here.
 
 # Blogs
 
-This header is the thchnical blogs post list. Covered topics will be
+This header is the technical blogs post list. Covered topics will be
 * HPC-related like complation, parallelism, shell script, cmake etc.;
 * Language-related like modern C++, rust, html;
 * tools-related and libraries-related.
