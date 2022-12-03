@@ -6,7 +6,7 @@ layout: default
 
 # Library: Nexus-Soliton (NS)
 
-- last time edited @3rd. Sec. 2022
+- last time edited @3rd. Dec. 2022
 
 > The NS project was started five years ago during my PhD time. The outputs have generated two major publications for 2D system. One of them is published on [Nature Communication](https://www.nature.com/articles/s41467-018-08204-8).
 >
