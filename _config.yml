@@ -1,13 +1,7 @@
 title: (R)egular (E)xpressions 
+email: samuel.thecurvature01@gmail.com
 logo: /assets/img/logo.png
 description: Quann's page for HPC & projects.
 show_downloads: false 
-# google_analytics: G-MYD0HN3DS2
+google_analytics: G-MYD0HN3DS2
 theme: jekyll-theme-minimal
-
-# Analytics
-analytics:
-  provider: "google-gtag"
-   google:
-     measurement_id: G-HRMZ7N8PQP 
-     anonymize_ip: false 
