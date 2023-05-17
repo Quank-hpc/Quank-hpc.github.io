@@ -13,7 +13,7 @@ layout: default
 
 # My Projects
 
-This header shows info about projects I am developing during career.
+This header shows info about projects which I am/was developing during long-term career.
 <br/>
 Self-supporting project may also be metioned at here.
 
@@ -46,11 +46,12 @@ Self-supporting project may also be metioned at here.
 
 This header is the technical blogs post list. Covered topics will be
 * HPC-related like complation, parallelism, shell script, cmake etc.;
-* Language-related like modern C++, rust, html;
-* tools-related and libraries-related.
+* Language-related like modern C++, rust, html, markdown;
+* tools-related and libraries-related such as AMD-ROCm, Nvidia-cuda/openACC, C++ STL, OpenMPI, OneAPI TBB etc..
 
 ### 2022
     - ...
+    
 ### 2023
     - ...
 

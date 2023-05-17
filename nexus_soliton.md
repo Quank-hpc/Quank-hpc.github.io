@@ -25,7 +25,7 @@ Libaray NS was developed with [BFGS nonlinear optimization algorithm](https://en
 The codes was implemented with Matlab and c++ languages. c++ programs should be complied to be dynamic object files (.so files) with suitbale interfaces before Matlab scripts could call them. However, same functions could be implemented and run without c++ parts, witha a bit slower. Matlab _parfor_ is used for parallelism, and then addtional shell scripts are necessary for running on cluster.
 
 There are still few open implements waiting for more work, for example:
-* Random latices for solitions and HQVs --- soliton glass;
+* Random lattices for solitions and HQVs --- soliton glass;
 * 3-Dimensional finite element mesh for system without translation symmetry along z-direction;
 * Adaptive mesh.
 
