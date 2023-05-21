@@ -20,13 +20,18 @@ Self-supporting project may also be metioned at here.
 ## FEM3He
 
 > FEM3He focuses on developing scalable finite element method (FEM) based kit of nonlinear solvers for Ginzburg-Landau (GL) PDEs system, which generally have 18 real-valued function unknowns for superfluid He-3
-> model. In general catagory, GL PDEs problems contain staionary equations i.e., saddle point equations and time-dependent equations i.e., TDGL. Sovling the formal one provides stable(or metastable) configurations and information related to system's free energies. These knowleges are significant to investigate different possible phase transitions and different topological defects configuration.
+> model. In general catagory, GL PDEs problems contain staionary equations i.e., saddle point equations and time-dependent equations i.e., TDGL. 
+>
+> Sovling the formal one provides stable(or metastable) configurations and information related to system's free energies. These knowleges are significant to investigate different possible phase transitions and different topological defects configuration.
+>
 > While solving the later problem help us to understand the different dynamic properties of Helium condensates such as collective modes and hydrodynamics. Moreover, Solving TDGL could reveal the dynamic process of phase tansition when the parameters of system get close to system's sanddle points.
 
 ## He3Sim
 
 > Lattice QCD library _hila_ based dynamic solver of TDGL for superlfuid Helium. This is a join project.
-> As a library with many generations of iterations, _hila_ is good at about simulating dynamic equations of motion of complicated fields with an uniform mesh and it scaling well on memory distributed hardware.
+>
+> As a library with many generations of iterations, _hila_ is good at about simulating dynamic equations of motion of complicated fields with an uniform mesh and it is scaling well on memory distributed hardware.
+>
 > Combining FEM3HE and He3Sim, one may expect very dood understanding of complicated superfluid system.
 
 ## SCC-GL
@@ -45,9 +50,9 @@ Self-supporting project may also be metioned at here.
 # Blogs
 
 This header is the technical blogs post list. Covered topics will be
-* HPC-related like complation, parallelism, shell script, cmake etc.;
-* Language-related like modern C++, rust, html, markdown;
-* tools-related and libraries-related such as AMD-ROCm, Nvidia-cuda/openACC, C++ STL, OpenMPI, OneAPI TBB etc..
+* HPC-related like complation, parallelism, shell script, cmake, parallel I/O etc.;
+* Language-related like modern C++, rust, html, markdown, Jekyll;
+* tools-related and libraries-related such as paraview, AMD-ROCm, Nvidia-cuda/openACC, C++ STL, OpenMPI, OneAPI TBB etc..
 
 ### 2022
     - ...
