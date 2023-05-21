@@ -6,7 +6,6 @@ layout: default
 
 **I am Quank(g), postdoc research fellow with PhD degree of mathematical physics of University of Helsinki.**
 <br/>
-**Checkout my Github profile.**
 
 |:----------------------------------------------------------|
 |_This page is the palce I show my projects and post blogs_.|
